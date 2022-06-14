@@ -9,9 +9,9 @@ A web browser (Chrome, Firefox, Edge, Opera etc.)
 2. Extract the zip file
 
 ## Usage
-1. Open the index.html file in any web browser
-2. Fill up all the relevant information and click on submit
-3. Take a print out of the resulting webpage
+1. Visit https://utpalbaro.github.io/rent-receipt/
+2. Enter your relevant details
+3. Print the resulting webpage
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)

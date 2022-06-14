@@ -50,7 +50,7 @@ function generateReceipts() {
         <h3>RENT RECEIPT</h3>
         <p>Date: ${ assessment_date }</p>
     
-        <p>Received sum of <strong>Rs ${ receipt_amount }</strong> from <strong>${ tenant }</strong> towards the rent of property located at 
+        <p>Received sum of <strong>&#8377 ${ receipt_amount }</strong> from <strong>${ tenant }</strong> towards the rent of property located at 
         <strong>${ address }</strong> for the period from <strong>${ start_date }</strong> 
         to <strong>${ end_date }</strong>.</p> 
         <br>
